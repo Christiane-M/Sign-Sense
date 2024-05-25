@@ -40,3 +40,6 @@ _Deployment:_ Deploy the trained model and FastAPI server to a cloud platform.
 
 _API Documentation:_ The API provides the following endpoints:
       _/predict:_ Accepts an image or video file containing ASL gestures and returns the predicted letter or word.
+
+## Demo
+![Watch the demo](https://github.com/Christiane-M/Sign-Sense/blob/master/video_demo/demo.mp4)
