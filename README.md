@@ -42,4 +42,5 @@ _API Documentation:_ The API provides the following endpoints:
       _/predict:_ Accepts an image or video file containing ASL gestures and returns the predicted letter or word.
 
 ## Demo
-[![Watch the demo]](video_demo/demo.mp4)
+https://github.com/Christiane-M/Sign-Sense/assets/146815681/f5a2d802-d6b7-4b11-84d1-88cf1d2fb7b5
+
